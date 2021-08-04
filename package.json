@@ -1,0 +1,22 @@
+{
+  "name": "connectmongo",
+  "version": "1.0.0",
+  "description": "connect to mongo db",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franzreitmayer/connectMongo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franzreitmayer/connectMongo/issues"
+  },
+  "homepage": "https://github.com/franzreitmayer/connectMongo#readme",
+  "dependencies": {
+    "mongodb": "^4.1.0"
+  }
+}
